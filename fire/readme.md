@@ -7,7 +7,7 @@ https://twitter.com/MCFascinatComd/status/1332263072975753223
 
 ## ダウンロード
 
-[こちら](.\fire.zip?raw=true)
+[こちら](fire.zip?raw=true)
 
 ## 使い方
 
