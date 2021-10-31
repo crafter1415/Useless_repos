@@ -1,0 +1,43 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/snowball"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "pi:item/item_pie"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "pi:item/thrown_pie"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "pi:item/dish"
+    },
+
+    {"predicate":{"custom_model_data":1000},"model": "pi:item/pie/cream0"},
+    {"predicate":{"custom_model_data":1001},"model": "pi:item/pie/cream1"},
+    {"predicate":{"custom_model_data":1002},"model": "pi:item/pie/cream2"},
+    {"predicate":{"custom_model_data":1003},"model": "pi:item/pie/cream3"},
+    {"predicate":{"custom_model_data":1004},"model": "pi:item/pie/cream4"},
+    {"predicate":{"custom_model_data":1005},"model": "pi:item/pie/cream5"},
+    {"predicate":{"custom_model_data":1006},"model": "pi:item/pie/cream6"},
+    {"predicate":{"custom_model_data":1007},"model": "pi:item/pie/cream7"},
+    {"predicate":{"custom_model_data":1008},"model": "pi:item/pie/cream8"},
+    {"predicate":{"custom_model_data":1009},"model": "pi:item/pie/cream9"},
+    {"predicate":{"custom_model_data":1010},"model": "pi:item/pie/cream10"},
+    {"predicate":{"custom_model_data":1011},"model": "pi:item/pie/cream11"},
+    {"predicate":{"custom_model_data":1012},"model": "pi:item/pie/cream12"},
+    {"predicate":{"custom_model_data":1013},"model": "pi:item/pie/cream13"},
+    {"predicate":{"custom_model_data":1014},"model": "pi:item/pie/cream14"},
+    {"predicate":{"custom_model_data":1015},"model": "pi:item/pie/cream15"}
+  ]
+}

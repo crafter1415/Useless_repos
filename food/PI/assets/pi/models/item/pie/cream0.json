@@ -1,0 +1,31 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "pi:item/noise_white",
+		"particle": "pi:item/noise_white"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 7],
+			"to": [9, 2, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 1, 8]},
+			"faces": {
+				"north": {"uv": [3, 8.5, 5, 10.5], "texture": "#0"},
+				"east": {"uv": [11, 13.5, 13, 15.5], "texture": "#0"},
+				"south": {"uv": [7, 10, 9, 12], "texture": "#0"},
+				"west": {"uv": [4, 4, 6, 6], "texture": "#0"},
+				"up": {"uv": [9, 4, 11, 6], "texture": "#0"},
+				"down": {"uv": [13, 6, 15, 8], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"ground": {
+			"translation": [0, 5, 0]
+		},
+		"head": {
+			"translation": [0, 0.5, 0],
+			"scale": [4, 4, 4]
+		}
+	}
+}
