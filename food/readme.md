@@ -25,7 +25,7 @@ resourcepacks, datapacks の**両方**に入れてリソースパックを読み
 
 ## その他
 
-[https://twitter.com/crafter1415/status/1454750645383168003](参加作品)  
+[参加作品](https://twitter.com/crafter1415/status/1454750645383168003)  
 いいねRTされるとモチベが120%上昇します()  
 
 ## 不具合報告
