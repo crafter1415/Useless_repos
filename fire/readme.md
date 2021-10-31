@@ -1,7 +1,7 @@
 # 魅せコマ
 
 **テーマ：炎**  
-https://twitter.com/MCFascinatComd/status/1332263072975753223  
+https://twitter.com/i/events/1333409540809707521  
   
 後で作品モーメントに変えておきます()
 
