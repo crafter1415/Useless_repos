@@ -16,7 +16,7 @@ https://twitter.com/MCFascinatComd/status/1509832948782010370
 ワールドフォルダ内の datapacks フォルダに入れてリロードすることによって利用できます。  
   
 ```mcfunction
-/function fb:give
+function fb:give
 ```  
 上のコマンドを実行すると追加されたアイテムが入手でき、装備すると歩いた際に草や花が生成されるようになります。
 
