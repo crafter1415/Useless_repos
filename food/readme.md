@@ -2,9 +2,7 @@
 # 魅せコマ
 
 **テーマ：食べ物**  
-https://twitter.com/MCFascinatComd/status/1452575872033169413  
-  
-気が向いたら作品モーメントに変えます()
+https://twitter.com/i/events/1455164841686036487  
 
 ## パイ
 
